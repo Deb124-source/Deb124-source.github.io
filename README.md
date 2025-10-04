@@ -39,7 +39,7 @@ Integrated smooth navigation and interactive elements
 
 3. Deployment
 
-[My portfolio] (https://personalportfp.netlify.app/)
+App link: https://personalportfp.netlify.app/
 
 Publicly accessible as my professional portfolio
 
