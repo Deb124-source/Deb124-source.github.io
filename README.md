@@ -1,4 +1,4 @@
-🌐 Personal Portfolio Website
+##🌐 Personal Portfolio Website
 
 📌 Problem Statement
 
@@ -39,7 +39,7 @@ Integrated smooth navigation and interactive elements
 
 3. Deployment
 
-App link: https://personalportfp.netlify.app/
+App link: (https://personalportfp.netlify.app/)
 
 Publicly accessible as my professional portfolio
 
